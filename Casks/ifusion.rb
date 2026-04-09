@@ -1,8 +1,8 @@
 cask "ifusion" do
   arch arm: "arm64"
 
-  version "1.0.20"
-  sha256 arm: "80cfa9051446004e6dfcc4d1ebbbfa6925ff2760c80e3c2bb2bec8526ef3efb6"
+  version "1.0.21"
+  sha256 arm: "648529e204f163019dbf16524207d26eb4aba0dc7d1924b98f2154a8bc092669"
 
   url "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/v#{version}/iFusion-Installer.dmg",
       verified: "github.com/nishwetbox/ifusion-desktop-releases/"
