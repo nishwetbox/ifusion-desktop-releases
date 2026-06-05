@@ -1,0 +1,21 @@
+{
+  "version": "1.0.46",
+  "channel": "dev",
+  "provider": "sqlite",
+  "platform": "win32",
+  "arch": "x64",
+  "distribution": "direct",
+  "githubReleaseTag": "release-channel-dev-v1.0.46",
+  "providerTag": "desktop-channel-dev-provider-sqlite-v1.0.46",
+  "variantTag": "desktop-channel-dev-provider-sqlite-platform-win32-arch-x64-distribution-direct-v1.0.46",
+  "updatedAt": "2026-06-05T10:00:22.421Z",
+  "assets": [
+    {
+      "name": "iFusion-1.0.46-full-win32-x64.nupkg",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-dev-v1.0.46/iFusion-1.0.46-full-win32-x64.nupkg",
+      "role": "squirrel-package",
+      "size": 169555929,
+      "contentType": "application/octet-stream"
+    }
+  ]
+}
