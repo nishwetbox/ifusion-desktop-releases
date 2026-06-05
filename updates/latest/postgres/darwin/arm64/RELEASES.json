@@ -1,0 +1,15 @@
+{
+  "currentRelease": "1.0.48",
+  "releases": [
+    {
+      "version": "1.0.48",
+      "updateTo": {
+        "name": "iFusion v1.0.48",
+        "version": "1.0.48",
+        "pub_date": "2026-06-05T16:03:42.266Z",
+        "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.0.48/iFusion-Installer-Apple-Silicon-pg.zip",
+        "notes": ""
+      }
+    }
+  ]
+}

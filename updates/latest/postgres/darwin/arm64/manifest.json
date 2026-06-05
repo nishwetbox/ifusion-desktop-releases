@@ -1,0 +1,21 @@
+{
+  "version": "1.0.48",
+  "channel": "latest",
+  "provider": "postgres",
+  "platform": "darwin",
+  "arch": "arm64",
+  "distribution": "direct",
+  "githubReleaseTag": "release-channel-latest-v1.0.48",
+  "providerTag": "desktop-channel-latest-provider-postgres-v1.0.48",
+  "variantTag": "desktop-channel-latest-provider-postgres-platform-darwin-arch-arm64-distribution-direct-v1.0.48",
+  "updatedAt": "2026-06-05T16:03:55.386Z",
+  "assets": [
+    {
+      "name": "iFusion-Installer-Apple-Silicon-pg.zip",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.0.48/iFusion-Installer-Apple-Silicon-pg.zip",
+      "role": "mac-update-zip",
+      "size": 161479578,
+      "contentType": "application/zip"
+    }
+  ]
+}

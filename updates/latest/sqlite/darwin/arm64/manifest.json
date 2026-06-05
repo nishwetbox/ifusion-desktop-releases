@@ -1,0 +1,21 @@
+{
+  "version": "1.0.48",
+  "channel": "latest",
+  "provider": "sqlite",
+  "platform": "darwin",
+  "arch": "arm64",
+  "distribution": "direct",
+  "githubReleaseTag": "release-channel-latest-v1.0.48",
+  "providerTag": "desktop-channel-latest-provider-sqlite-v1.0.48",
+  "variantTag": "desktop-channel-latest-provider-sqlite-platform-darwin-arch-arm64-distribution-direct-v1.0.48",
+  "updatedAt": "2026-06-05T16:07:20.085Z",
+  "assets": [
+    {
+      "name": "iFusion-Installer-Apple-Silicon.zip",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.0.48/iFusion-Installer-Apple-Silicon.zip",
+      "role": "mac-update-zip",
+      "size": 161565968,
+      "contentType": "application/zip"
+    }
+  ]
+}
