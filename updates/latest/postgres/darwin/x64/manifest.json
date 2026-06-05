@@ -1,0 +1,21 @@
+{
+  "version": "1.0.48",
+  "channel": "latest",
+  "provider": "postgres",
+  "platform": "darwin",
+  "arch": "x64",
+  "distribution": "direct",
+  "githubReleaseTag": "release-channel-latest-v1.0.48",
+  "providerTag": "desktop-channel-latest-provider-postgres-v1.0.48",
+  "variantTag": "desktop-channel-latest-provider-postgres-platform-darwin-arch-x64-distribution-direct-v1.0.48",
+  "updatedAt": "2026-06-05T16:10:27.166Z",
+  "assets": [
+    {
+      "name": "iFusion-Installer-Intel-pg.zip",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.0.48/iFusion-Installer-Intel-pg.zip",
+      "role": "mac-update-zip",
+      "size": 170637767,
+      "contentType": "application/zip"
+    }
+  ]
+}
