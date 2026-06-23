@@ -1,20 +1,20 @@
 {
-  "version": "1.9.1",
+  "version": "1.9.2",
   "channel": "latest",
   "provider": "postgres",
   "platform": "win32",
   "arch": "x64",
   "distribution": "direct",
-  "githubReleaseTag": "release-channel-latest-v1.9.1",
-  "providerTag": "desktop-channel-latest-provider-postgres-v1.9.1",
-  "variantTag": "desktop-channel-latest-provider-postgres-platform-win32-arch-x64-distribution-direct-v1.9.1",
-  "updatedAt": "2026-06-23T14:44:31.949Z",
+  "githubReleaseTag": "release-channel-latest-v1.9.2",
+  "providerTag": "desktop-channel-latest-provider-postgres-v1.9.2",
+  "variantTag": "desktop-channel-latest-provider-postgres-platform-win32-arch-x64-distribution-direct-v1.9.2",
+  "updatedAt": "2026-06-23T15:57:44.538Z",
   "assets": [
     {
-      "name": "iFusion-1.9.1-full-win32-x64-pg.nupkg",
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.1/iFusion-1.9.1-full-win32-x64-pg.nupkg",
+      "name": "iFusion-1.9.2-full-win32-x64-pg.nupkg",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.2/iFusion-1.9.2-full-win32-x64-pg.nupkg",
       "role": "squirrel-package",
-      "size": 169922461,
+      "size": 169922089,
       "contentType": "application/octet-stream"
     }
   ]
