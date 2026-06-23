@@ -1,5 +1,5 @@
 {
-  "currentRelease": "1.0.48",
+  "currentRelease": "1.9.2",
   "releases": [
     {
       "version": "1.0.48",
@@ -7,7 +7,17 @@
         "name": "iFusion v1.0.48",
         "version": "1.0.48",
         "pub_date": "2026-06-05T16:10:00.226Z",
-        "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.0.48/iFusion-Installer-Intel-pg.zip",
+        "url": "https://github.com/undefined/undefined/releases/download/release-channel-latest-v1.0.48/iFusion-Installer-Intel-pg.zip",
+        "notes": ""
+      }
+    },
+    {
+      "version": "1.9.2",
+      "updateTo": {
+        "name": "iFusion v1.9.2",
+        "version": "1.9.2",
+        "pub_date": "2026-06-23T16:02:18.243Z",
+        "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.2/iFusion-Installer-Intel-pg.zip",
         "notes": ""
       }
     }

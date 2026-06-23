@@ -1,20 +1,20 @@
 {
-  "version": "1.0.48",
+  "version": "1.9.2",
   "channel": "latest",
   "provider": "sqlite",
   "platform": "darwin",
   "arch": "x64",
   "distribution": "direct",
-  "githubReleaseTag": "release-channel-latest-v1.0.48",
-  "providerTag": "desktop-channel-latest-provider-sqlite-v1.0.48",
-  "variantTag": "desktop-channel-latest-provider-sqlite-platform-darwin-arch-x64-distribution-direct-v1.0.48",
-  "updatedAt": "2026-06-05T16:17:46.653Z",
+  "githubReleaseTag": "release-channel-latest-v1.9.2",
+  "providerTag": "desktop-channel-latest-provider-sqlite-v1.9.2",
+  "variantTag": "desktop-channel-latest-provider-sqlite-platform-darwin-arch-x64-distribution-direct-v1.9.2",
+  "updatedAt": "2026-06-23T16:07:42.030Z",
   "assets": [
     {
       "name": "iFusion-Installer-Intel.zip",
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.0.48/iFusion-Installer-Intel.zip",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.2/iFusion-Installer-Intel.zip",
       "role": "mac-update-zip",
-      "size": 170724550,
+      "size": 171301113,
       "contentType": "application/zip"
     }
   ]
