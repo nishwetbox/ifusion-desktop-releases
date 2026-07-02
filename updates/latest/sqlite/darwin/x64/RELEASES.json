@@ -1,5 +1,5 @@
 {
-  "currentRelease": "1.9.3",
+  "currentRelease": "1.9.4",
   "releases": [
     {
       "version": "1.0.48",
@@ -28,6 +28,16 @@
         "version": "1.9.3",
         "pub_date": "2026-07-02T14:10:13.735Z",
         "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.3/iFusion-Installer-Intel.zip",
+        "notes": ""
+      }
+    },
+    {
+      "version": "1.9.4",
+      "updateTo": {
+        "name": "iFusion v1.9.4",
+        "version": "1.9.4",
+        "pub_date": "2026-07-02T15:52:06.727Z",
+        "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.4/iFusion-Installer-Intel.zip",
         "notes": ""
       }
     }
