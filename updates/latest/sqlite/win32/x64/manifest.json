@@ -1,20 +1,20 @@
 {
-  "version": "1.9.3",
+  "version": "1.9.4",
   "channel": "latest",
   "provider": "sqlite",
   "platform": "win32",
   "arch": "x64",
   "distribution": "direct",
-  "githubReleaseTag": "release-channel-latest-v1.9.3",
-  "providerTag": "desktop-channel-latest-provider-sqlite-v1.9.3",
-  "variantTag": "desktop-channel-latest-provider-sqlite-platform-win32-arch-x64-distribution-direct-v1.9.3",
-  "updatedAt": "2026-07-02T13:56:29.446Z",
+  "githubReleaseTag": "release-channel-latest-v1.9.4",
+  "providerTag": "desktop-channel-latest-provider-sqlite-v1.9.4",
+  "variantTag": "desktop-channel-latest-provider-sqlite-platform-win32-arch-x64-distribution-direct-v1.9.4",
+  "updatedAt": "2026-07-02T15:48:48.484Z",
   "assets": [
     {
-      "name": "iFusion-1.9.3-full-win32-x64.nupkg",
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.3/iFusion-1.9.3-full-win32-x64.nupkg",
+      "name": "iFusion-1.9.4-full-win32-x64.nupkg",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.4/iFusion-1.9.4-full-win32-x64.nupkg",
       "role": "squirrel-package",
-      "size": 170452066,
+      "size": 170457985,
       "contentType": "application/octet-stream"
     }
   ]
