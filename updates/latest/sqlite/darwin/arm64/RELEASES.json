@@ -1,5 +1,5 @@
 {
-  "currentRelease": "1.9.2",
+  "currentRelease": "1.9.3",
   "releases": [
     {
       "version": "1.0.48",
@@ -7,7 +7,7 @@
         "name": "iFusion v1.0.48",
         "version": "1.0.48",
         "pub_date": "2026-06-05T16:07:10.009Z",
-        "url": "https://github.com/undefined/undefined/releases/download/release-channel-latest-v1.0.48/iFusion-Installer-Apple-Silicon.zip",
+        "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.0.48/iFusion-Installer-Apple-Silicon.zip",
         "notes": ""
       }
     },
@@ -18,6 +18,16 @@
         "version": "1.9.2",
         "pub_date": "2026-06-23T15:57:10.030Z",
         "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.2/iFusion-Installer-Apple-Silicon.zip",
+        "notes": ""
+      }
+    },
+    {
+      "version": "1.9.3",
+      "updateTo": {
+        "name": "iFusion v1.9.3",
+        "version": "1.9.3",
+        "pub_date": "2026-07-02T13:52:47.621Z",
+        "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.3/iFusion-Installer-Apple-Silicon.zip",
         "notes": ""
       }
     }
