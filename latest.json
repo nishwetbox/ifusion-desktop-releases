@@ -1,33 +1,33 @@
 {
-  "updatedAt": "2026-06-28T07:52:06Z",
+  "updatedAt": "2026-07-02T15:54:50.416Z",
   "downloads": {
     "windows-x64": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.2/iFusion-Installer-Windows-64bit.exe",
-      "version": "1.9.2",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.4/iFusion-Installer-Windows-64bit.exe",
+      "version": "1.9.4",
       "provider": "sqlite",
       "platform": "win32",
       "arch": "x64",
-      "releaseTag": "release-channel-latest-v1.9.2",
+      "releaseTag": "release-channel-latest-v1.9.4",
       "assetName": "iFusion-Installer-Windows-64bit.exe",
       "label": "Windows (64-bit)"
     },
     "mac-arm64": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.2/iFusion-Installer-Apple-Silicon.dmg",
-      "version": "1.9.2",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.4/iFusion-Installer-Apple-Silicon.dmg",
+      "version": "1.9.4",
       "provider": "sqlite",
       "platform": "darwin",
       "arch": "arm64",
-      "releaseTag": "release-channel-latest-v1.9.2",
+      "releaseTag": "release-channel-latest-v1.9.4",
       "assetName": "iFusion-Installer-Apple-Silicon.dmg",
       "label": "macOS (Apple Silicon)"
     },
     "mac-x64": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.2/iFusion-Installer-Intel.dmg",
-      "version": "1.9.2",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.4/iFusion-Installer-Intel.dmg",
+      "version": "1.9.4",
       "provider": "sqlite",
       "platform": "darwin",
       "arch": "x64",
-      "releaseTag": "release-channel-latest-v1.9.2",
+      "releaseTag": "release-channel-latest-v1.9.4",
       "assetName": "iFusion-Installer-Intel.dmg",
       "label": "macOS (Intel)"
     },
@@ -62,6 +62,6 @@
       "label": "macOS (Intel) Postgres"
     }
   },
-  "releaseTag": "release-channel-latest-v1.9.2",
+  "releaseTag": "release-channel-latest-v1.9.4",
   "channel": "latest"
 }
