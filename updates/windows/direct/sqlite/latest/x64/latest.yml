@@ -1,0 +1,9 @@
+version: 1.9.12
+files:
+  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.12/iFusion-Installer-Windows-64bit.exe
+    sha512: 58/eJlGCAAeCQhlLwgHjs64DYBx19OkhsQs8pq4mCutE9Po8RQJVUAqQu2WH0vphuXADkEtBlcuKsisNTvO6yg==
+    size: 164146411
+    isAdminRightsRequired: true
+path: iFusion-Installer-Windows-64bit.exe
+sha512: 58/eJlGCAAeCQhlLwgHjs64DYBx19OkhsQs8pq4mCutE9Po8RQJVUAqQu2WH0vphuXADkEtBlcuKsisNTvO6yg==
+releaseDate: '2026-07-15T05:23:35.835Z'
