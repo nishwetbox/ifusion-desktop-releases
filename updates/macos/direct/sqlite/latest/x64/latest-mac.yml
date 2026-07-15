@@ -1,0 +1,11 @@
+version: 1.9.12
+files:
+  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.12/iFusion-Installer-Intel.zip
+    sha512: Mf5FJwK70yVwwibLOh/NZbOuPiBuSshu2ctZT2nJ0kvxgrEJPsdPL7tJ84PjWEJs9yZUeJynKCH+PHK+i2CCOA==
+    size: 197155506
+  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.12/iFusion-Installer-Intel.dmg
+    sha512: oqr8rEqtAjgJ7kbLqxW+VmakHLJE28jeDEkLfgLwKfOBD1+yRONtRm6srGIx8ovDKEN/S6U4G25pD/bdfl25nA==
+    size: 192958085
+path: iFusion-Installer-Intel.zip
+sha512: Mf5FJwK70yVwwibLOh/NZbOuPiBuSshu2ctZT2nJ0kvxgrEJPsdPL7tJ84PjWEJs9yZUeJynKCH+PHK+i2CCOA==
+releaseDate: '2026-07-15T05:34:48.076Z'
