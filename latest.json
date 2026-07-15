@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T07:46:15.474Z",
+  "updatedAt": "2026-07-15T10:47:35.891Z",
   "downloads": {
     "windows-x64": {
       "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Windows-64bit.exe",
@@ -32,12 +32,12 @@
       "label": "macOS (Intel)"
     },
     "windows-x64-pg": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Windows-64bit-pg.exe",
-      "version": "1.9.13",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.15/iFusion-Installer-Windows-64bit-pg.exe",
+      "version": "1.9.15",
       "provider": "postgres",
       "platform": "win32",
       "arch": "x64",
-      "releaseTag": "release-channel-latest-v1.9.13",
+      "releaseTag": "release-channel-latest-v1.9.15",
       "assetName": "iFusion-Installer-Windows-64bit-pg.exe",
       "label": "Windows (64-bit) Postgres"
     },
@@ -62,6 +62,6 @@
       "label": "macOS (Intel) Postgres"
     }
   },
-  "releaseTag": "release-channel-latest-v1.9.13",
+  "releaseTag": "release-channel-latest-v1.9.15",
   "channel": "latest"
 }
