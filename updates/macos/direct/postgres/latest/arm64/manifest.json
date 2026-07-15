@@ -1,27 +1,27 @@
 {
-  "version": "1.9.12",
+  "version": "1.9.13",
   "channel": "latest",
   "provider": "postgres",
   "platform": "darwin",
   "arch": "arm64",
   "distribution": "direct",
-  "githubReleaseTag": "release-channel-latest-v1.9.12",
-  "providerTag": "desktop-channel-latest-provider-postgres-v1.9.12",
-  "variantTag": "desktop-channel-latest-provider-postgres-platform-darwin-arch-arm64-distribution-direct-v1.9.12",
-  "updatedAt": "2026-07-15T05:19:56.384Z",
+  "githubReleaseTag": "release-channel-latest-v1.9.13",
+  "providerTag": "desktop-channel-latest-provider-postgres-v1.9.13",
+  "variantTag": "desktop-channel-latest-provider-postgres-platform-darwin-arch-arm64-distribution-direct-v1.9.13",
+  "updatedAt": "2026-07-15T07:29:11.616Z",
   "assets": [
     {
       "name": "iFusion-Installer-Apple-Silicon-pg.zip",
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.12/iFusion-Installer-Apple-Silicon-pg.zip",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Apple-Silicon-pg.zip",
       "role": "mac-update-zip",
-      "size": 184160293,
+      "size": 165409760,
       "contentType": "application/zip"
     },
     {
       "name": "iFusion-Installer-Apple-Silicon-pg.dmg",
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.12/iFusion-Installer-Apple-Silicon-pg.dmg",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Apple-Silicon-pg.dmg",
       "role": "mac-update-zip",
-      "size": 180354177,
+      "size": 161438043,
       "contentType": "application/x-apple-diskimage"
     }
   ]

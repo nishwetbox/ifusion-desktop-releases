@@ -1,27 +1,27 @@
 {
-  "version": "1.9.12",
+  "version": "1.9.13",
   "channel": "latest",
   "provider": "sqlite",
   "platform": "darwin",
   "arch": "arm64",
   "distribution": "direct",
-  "githubReleaseTag": "release-channel-latest-v1.9.12",
-  "providerTag": "desktop-channel-latest-provider-sqlite-v1.9.12",
-  "variantTag": "desktop-channel-latest-provider-sqlite-platform-darwin-arch-arm64-distribution-direct-v1.9.12",
-  "updatedAt": "2026-07-15T05:24:47.260Z",
+  "githubReleaseTag": "release-channel-latest-v1.9.13",
+  "providerTag": "desktop-channel-latest-provider-sqlite-v1.9.13",
+  "variantTag": "desktop-channel-latest-provider-sqlite-platform-darwin-arch-arm64-distribution-direct-v1.9.13",
+  "updatedAt": "2026-07-15T07:34:16.566Z",
   "assets": [
     {
       "name": "iFusion-Installer-Apple-Silicon.zip",
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.12/iFusion-Installer-Apple-Silicon.zip",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Apple-Silicon.zip",
       "role": "mac-update-zip",
-      "size": 184468415,
+      "size": 165718024,
       "contentType": "application/zip"
     },
     {
       "name": "iFusion-Installer-Apple-Silicon.dmg",
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.12/iFusion-Installer-Apple-Silicon.dmg",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Apple-Silicon.dmg",
       "role": "mac-update-zip",
-      "size": 180407042,
+      "size": 161541423,
       "contentType": "application/x-apple-diskimage"
     }
   ]
