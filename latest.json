@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-07-15T11:25:18.701Z",
+  "updatedAt": "2026-07-21T17:35:02.636Z",
   "downloads": {
     "windows-x64": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Windows-64bit.exe",
-      "version": "1.9.13",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.21/iFusion-Installer-Windows-64bit.exe",
+      "version": "1.9.21",
       "provider": "sqlite",
       "platform": "win32",
       "arch": "x64",
-      "releaseTag": "release-channel-latest-v1.9.13",
+      "releaseTag": "release-channel-latest-v1.9.21",
       "assetName": "iFusion-Installer-Windows-64bit.exe",
       "label": "Windows (64-bit)"
     },
     "mac-arm64": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Apple-Silicon.dmg",
-      "version": "1.9.13",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.21/iFusion-Installer-Apple-Silicon.dmg",
+      "version": "1.9.21",
       "provider": "sqlite",
       "platform": "darwin",
       "arch": "arm64",
-      "releaseTag": "release-channel-latest-v1.9.13",
+      "releaseTag": "release-channel-latest-v1.9.21",
       "assetName": "iFusion-Installer-Apple-Silicon.dmg",
       "label": "macOS (Apple Silicon)"
     },
     "mac-x64": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Intel.dmg",
-      "version": "1.9.13",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.21/iFusion-Installer-Intel.dmg",
+      "version": "1.9.21",
       "provider": "sqlite",
       "platform": "darwin",
       "arch": "x64",
-      "releaseTag": "release-channel-latest-v1.9.13",
+      "releaseTag": "release-channel-latest-v1.9.21",
       "assetName": "iFusion-Installer-Intel.dmg",
       "label": "macOS (Intel)"
     },
     "windows-x64-pg": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.16/iFusion-Installer-Windows-64bit-pg.exe",
-      "version": "1.9.16",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.21/iFusion-Installer-Windows-64bit-pg.exe",
+      "version": "1.9.21",
       "provider": "postgres",
       "platform": "win32",
       "arch": "x64",
-      "releaseTag": "release-channel-latest-v1.9.16",
+      "releaseTag": "release-channel-latest-v1.9.21",
       "assetName": "iFusion-Installer-Windows-64bit-pg.exe",
       "label": "Windows (64-bit) Postgres"
     },
     "mac-arm64-pg": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Apple-Silicon-pg.dmg",
-      "version": "1.9.13",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.21/iFusion-Installer-Apple-Silicon-pg.dmg",
+      "version": "1.9.21",
       "provider": "postgres",
       "platform": "darwin",
       "arch": "arm64",
-      "releaseTag": "release-channel-latest-v1.9.13",
+      "releaseTag": "release-channel-latest-v1.9.21",
       "assetName": "iFusion-Installer-Apple-Silicon-pg.dmg",
       "label": "macOS (Apple Silicon) Postgres"
     },
     "mac-x64-pg": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.13/iFusion-Installer-Intel-pg.dmg",
-      "version": "1.9.13",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.21/iFusion-Installer-Intel-pg.dmg",
+      "version": "1.9.21",
       "provider": "postgres",
       "platform": "darwin",
       "arch": "x64",
-      "releaseTag": "release-channel-latest-v1.9.13",
+      "releaseTag": "release-channel-latest-v1.9.21",
       "assetName": "iFusion-Installer-Intel-pg.dmg",
       "label": "macOS (Intel) Postgres"
     }
   },
-  "releaseTag": "release-channel-latest-v1.9.16",
+  "releaseTag": "release-channel-latest-v1.9.21",
   "channel": "latest"
 }
