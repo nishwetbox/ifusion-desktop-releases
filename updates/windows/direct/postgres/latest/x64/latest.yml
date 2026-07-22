@@ -1,8 +1,8 @@
-version: 1.9.21
+version: 1.9.23
 files:
-  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.21/iFusion-Installer-Windows-64bit-pg.exe
-    sha512: WU5ZtxjAnBQQHt/Fn7HhLPfBIFjSHqnmsvZvQajQpjnRqJuSjcaGTBWPVSIOvT1LpaL2iLzmFzUdkGjDqbHV/A==
-    size: 151340574
+  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.23/iFusion-Installer-Windows-64bit-pg.exe
+    sha512: 7VofNzO5DYcj20fSK5cD3QA/BhR3jc5CPMrNPob1oVot35sY8Cs+dEuJ30tEYo7FDyBQKkgTRwB0Bw19+ErxBw==
+    size: 151366275
 path: iFusion-Installer-Windows-64bit-pg.exe
-sha512: WU5ZtxjAnBQQHt/Fn7HhLPfBIFjSHqnmsvZvQajQpjnRqJuSjcaGTBWPVSIOvT1LpaL2iLzmFzUdkGjDqbHV/A==
-releaseDate: '2026-07-21T17:28:05.731Z'
+sha512: 7VofNzO5DYcj20fSK5cD3QA/BhR3jc5CPMrNPob1oVot35sY8Cs+dEuJ30tEYo7FDyBQKkgTRwB0Bw19+ErxBw==
+releaseDate: '2026-07-22T09:33:41.863Z'
