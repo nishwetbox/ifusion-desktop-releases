@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T05:36:49.865Z",
+  "updatedAt": "2026-08-17T17:28:59.443Z",
   "downloads": {
     "windows-x64": {
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.42/iFusion-Installer-Windows-64bit.exe",
-      "version": "1.9.42",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.44/iFusion-Installer-Windows-64bit.exe",
+      "version": "1.9.44",
       "provider": "sqlite",
       "platform": "win32",
       "arch": "x64",
-      "releaseTag": "release-channel-latest-v1.9.42",
+      "releaseTag": "release-channel-latest-v1.9.44",
       "assetName": "iFusion-Installer-Windows-64bit.exe",
       "label": "Windows (64-bit)"
     },
@@ -62,6 +62,6 @@
       "label": "macOS (Intel) Postgres"
     }
   },
-  "releaseTag": "release-channel-latest-v1.9.42",
+  "releaseTag": "release-channel-latest-v1.9.44",
   "channel": "latest"
 }
