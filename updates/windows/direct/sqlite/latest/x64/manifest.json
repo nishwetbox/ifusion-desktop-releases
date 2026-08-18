@@ -1,20 +1,20 @@
 {
-  "version": "1.9.44",
+  "version": "1.9.45",
   "channel": "latest",
   "provider": "sqlite",
   "platform": "win32",
   "arch": "x64",
   "distribution": "direct",
-  "githubReleaseTag": "release-channel-latest-v1.9.44",
-  "providerTag": "desktop-channel-latest-provider-sqlite-v1.9.44",
-  "variantTag": "desktop-channel-latest-provider-sqlite-platform-win32-arch-x64-distribution-direct-v1.9.44",
-  "updatedAt": "2026-08-17T17:26:19.572Z",
+  "githubReleaseTag": "release-channel-latest-v1.9.45",
+  "providerTag": "desktop-channel-latest-provider-sqlite-v1.9.45",
+  "variantTag": "desktop-channel-latest-provider-sqlite-platform-win32-arch-x64-distribution-direct-v1.9.45",
+  "updatedAt": "2026-08-18T17:28:13.929Z",
   "assets": [
     {
       "name": "iFusion-Installer-Windows-64bit.exe",
-      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.44/iFusion-Installer-Windows-64bit.exe",
+      "url": "https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.45/iFusion-Installer-Windows-64bit.exe",
       "role": "nsis-installer",
-      "size": 149778412,
+      "size": 149776071,
       "contentType": "application/x-msdownload"
     }
   ]
