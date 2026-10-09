@@ -1,11 +1,11 @@
-version: 1.9.35
+version: 1.9.66
 files:
-  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.35/iFusion-Installer-Intel.zip
-    sha512: 203R9HAaT670lfP4uPzPA9SSETtPC30j3CPHQ0DWp2+mCywR8rfQ+sMhVuQrWW6Crj3ciz6le1Y0jt5ciUkoDQ==
-    size: 174567086
-  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.35/iFusion-Installer-Intel.dmg
-    sha512: hNX8449iYjoYpVl7h25hnPKN4AyAaijnEdXOq4VDw/zs2YQQKpIbHhCGp58LJOby+yJrN9GwwdLLy5B1nImnWg==
-    size: 173591179
+  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.66/iFusion-Installer-Intel.zip
+    sha512: BgebOSQailhXiRZF/6zAPdRy38t7+F9FRv0AVIFh9cpAaDXJkySrbpXzyHKQ1h7XC6ZEziwJsEBXKy667kwm2Q==
+    size: 190784242
+  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.66/iFusion-Installer-Intel.dmg
+    sha512: 5dZDlT5yj1toICSOltlFTYhQX/fQbMJh9CY9Go0fE4o7AnH7AtVI67nkUyYvNX3WPSoPma2O1WbTMF/7WQLUKQ==
+    size: 189464891
 path: iFusion-Installer-Intel.zip
-sha512: 203R9HAaT670lfP4uPzPA9SSETtPC30j3CPHQ0DWp2+mCywR8rfQ+sMhVuQrWW6Crj3ciz6le1Y0jt5ciUkoDQ==
-releaseDate: '2026-08-03T04:27:35.692Z'
+sha512: BgebOSQailhXiRZF/6zAPdRy38t7+F9FRv0AVIFh9cpAaDXJkySrbpXzyHKQ1h7XC6ZEziwJsEBXKy667kwm2Q==
+releaseDate: '2026-10-09T00:50:34.510Z'
