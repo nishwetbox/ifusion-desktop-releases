@@ -1,11 +1,11 @@
-version: 1.9.35
+version: 1.9.66
 files:
-  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.35/iFusion-Installer-Apple-Silicon.zip
-    sha512: luYVD/Nj2piv3WESlEcx2PvOqqvRJBztshpdE3SgbsIdPUVawP+YqCtelxJCfDpu4CuxDPrJoIqm/7HgeBii/g==
-    size: 163970019
-  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.35/iFusion-Installer-Apple-Silicon.dmg
-    sha512: 9na5oSrDjKL3HGzczL54oatQGqECG+CXpKMoUMEuG3t2mGW6rKpEOOtd4sG9BBkWwvGSd3BzdKiQArGxQ7Zsog==
-    size: 163020586
+  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.66/iFusion-Installer-Apple-Silicon.zip
+    sha512: mPSGnbPbIJLLXfzfAeJF25M01Lnclf6eoJvnCAuM9LLdPxVp3btM6CmRL45gmVCpeZbMNfracEeoYD+vsI29Cw==
+    size: 179294504
+  - url: https://github.com/nishwetbox/ifusion-desktop-releases/releases/download/release-channel-latest-v1.9.66/iFusion-Installer-Apple-Silicon.dmg
+    sha512: 1XC+sZPtGUt8AnRARy7kPRF8xdyxduQChr8FPVj8spvX6Hhn+POIJiluMKWs1kbYjpJ/m6f59bU5LH26QLwRAw==
+    size: 178037823
 path: iFusion-Installer-Apple-Silicon.zip
-sha512: luYVD/Nj2piv3WESlEcx2PvOqqvRJBztshpdE3SgbsIdPUVawP+YqCtelxJCfDpu4CuxDPrJoIqm/7HgeBii/g==
-releaseDate: '2026-08-03T04:20:35.275Z'
+sha512: mPSGnbPbIJLLXfzfAeJF25M01Lnclf6eoJvnCAuM9LLdPxVp3btM6CmRL45gmVCpeZbMNfracEeoYD+vsI29Cw==
+releaseDate: '2026-10-09T00:42:45.114Z'
